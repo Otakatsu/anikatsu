@@ -20,7 +20,7 @@
 
   <p align="center">
     Demo <a href="https://anikatsu.me">https://anikatsu.me</a> <br>
-    This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (API REPO <a href="https://github.com/shashankktiwariii/anikatsu-api"></a>)
+    This is a PHP application used for browsing, searching and watching anime . The application is built on top of GogoAnimeAPI (<a href="https://github.com/shashankktiwariii/anikatsu-api">API REPO</a>)
   </p>
 </p>
 
